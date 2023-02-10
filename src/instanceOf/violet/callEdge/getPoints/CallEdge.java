@@ -62,7 +62,7 @@ public class CallEdge extends SegmentedLineEdge
 		Node endNode = getEnd();
 		Node startNode = getStart();
 		
-
+//this is the method
 		return endNode.getPoints(startNode);
 		
 	}
